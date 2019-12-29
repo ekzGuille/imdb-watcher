@@ -42,6 +42,6 @@ const createUrlWatcher = () => {
   MOVIE_NAME_ELEMENT.appendChild(divWrapper);
 };
 
-chrome.extension.sendMessage({}, (response) => {
+chrome.extension.sendMessage({}, () => {
   createUrlWatcher();
 });
