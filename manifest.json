@@ -23,7 +23,8 @@
   "content_scripts": [
     {
       "matches": [
-        "https://www.imdb.com/*"
+        "https://www.imdb.com/title/*",
+        "https://www.google.com/*"
       ],
       "js": [
         "src/inject/inject.js"
