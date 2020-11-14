@@ -1,6 +1,6 @@
 {
   "name": "IMDb movie watcher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "Extension which allows you to watch movies inside IMDb webpage.",
   "homepage_url": "http://extensionizr.com",
