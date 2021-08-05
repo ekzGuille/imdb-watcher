@@ -1,4 +1,4 @@
-# IMDb Watcher (Google Chrome Extension)
+# ~~IMDb Watcher (Google Chrome Extension)~~ ⚠️**DEPRECATED** (Changed web design so selectors doesn't work any more until stension is updated)⚠️
 ### Also works with Chromium-based browsers like [Brave](https://brave.com/). See [more](https://www.zdnet.com/pictures/all-the-chromium-based-browsers) examples.
 
 ## Watch Online movies within IMDb.
